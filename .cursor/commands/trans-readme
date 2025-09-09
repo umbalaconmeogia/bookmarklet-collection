@@ -1,0 +1,22 @@
+# Translate README.md
+
+## Overview
+
+Translate README.md in specified directory or in the same directory of specified file on current tab.
+
+## Requirement
+When user types "/trans-readme":
+1. Read the README.md file in the current directory
+2. Translate the Vietnamese content to English and save as README.en.md
+3. Translate the Vietnamese content to Japanese and save as README.ja.md
+4. Ensure all files have language navigation links at the top:
+   `[English](README.en.md) - [日本語](README.ja.md) - [Tiếng Việt](README.md)`
+5. Maintain the same structure and formatting
+6. Update relative links to point to correct language versions
+
+## Translation Guidelines
+- Keep technical terms in English (bookmarklet, JavaScript, etc.)
+- Preserve code blocks and examples exactly
+- Update navigation links to appropriate language versions
+- Maintain markdown formatting and structure
+- For UI elements, use standard translations (Chrome: "Bookmark Manager" -> "ブックマークマネージャー")
