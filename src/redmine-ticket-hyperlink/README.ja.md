@@ -1,6 +1,8 @@
-# Redmine ticket copy
+# Redmine ticket copy for Spreadsheet
 
 [English](README.en.md) - [日本語](README.ja.md) - [Tiếng Việt](README.md)
+
+Bookmarklet Name: **RedmineHyperlink**
 
 これは、現在開いているRedmineチケットページでRedmineチケットの基本情報（チケットIDとチケットURL）をコピーするためのブックマークレットです。
 

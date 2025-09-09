@@ -1,6 +1,8 @@
-# Redmine ticket copy
+# Redmine ticket copy for Slack
 
 [English](README.en.md) - [日本語](README.ja.md) - [Tiếng Việt](README.md)
+
+Bookmarklet Name: **RedmineSlack**
 
 これは、現在開いているRedmineチケットページでRedmineチケットの基本情報（トラッカー情報、チケットID、タイトル、チケットURL）をコピーするためのブックマークレットです。
 

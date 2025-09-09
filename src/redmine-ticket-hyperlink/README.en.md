@@ -1,6 +1,8 @@
-# Redmine ticket copy
+# Redmine ticket copy for Spreadsheet
 
 [English](README.en.md) - [日本語](README.ja.md) - [Tiếng Việt](README.md)
+
+Bookmarklet Name: **RedmineHyperlink**
 
 This is a bookmarklet used to copy basic information about a Redmine ticket (including ticket ID and ticket URL) on the currently open Redmine ticket page.
 

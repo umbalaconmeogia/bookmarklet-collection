@@ -1,6 +1,8 @@
-# Redmine ticket copy
+# Redmine ticket copy for Slack
 
 [English](README.en.md) - [日本語](README.ja.md) - [Tiếng Việt](README.md)
+
+Bookmarklet Name: **RedmineSlack**
 
 Đây là bookmarklet dùng để copy thông tin cơ bản về Redmine ticket (gồm có thông tin tracker, ticket id, tiêu đề và ticket url) trên trang ticket của Redmine đang được mở.
 
